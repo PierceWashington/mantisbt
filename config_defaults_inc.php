@@ -3018,7 +3018,7 @@
 	 *
 	 * @global string $g_priority_enum_string
 	 */
-	$g_priority_enum_string				= '10:none,20:low,30:normal,40:high,50:urgent,60:immediate';
+	$g_priority_enum_string				= '10:none,20:low,30:normal,31:medium,40:high,50:urgent,60:immediate';
 	/**
 	 *
 	 * @global string $g_severity_enum_string
